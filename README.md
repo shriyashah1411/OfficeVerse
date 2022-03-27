@@ -12,4 +12,6 @@ Languages Used for this Project:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  ![image](https://user-images.githubusercontent.com/98771010/160266994-9005844a-ca73-4ea6-8c8b-ea23d1de7fb4.png)
+
 </p>
