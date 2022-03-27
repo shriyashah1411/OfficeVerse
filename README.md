@@ -1,11 +1,17 @@
 # OfficeVerse
 We're sure you are familiar with The Office and you've seen how paper orders are placed. They are usually done on phone, but not anymore as we are here to make their lives easier!
 
+The website has multiple parts to it, like any great website. A customer will be able to book appointments based on a specific company's agents' availability. The customers will be able to check when their agent is free and book the appointments accordingly. On the corporate side, the employees are able to do a wide variety of things. They are able to access their individual appointment records, make new or cancel appointments, place, update, or cancel an order, and create new client accounts. They also have access to the company calendar from which they can edit appointments. All the appointments, client records, employee records, and orders are kept in a secure database. This allows a smooth client and employee interaction without needing to have unnecessary verbal interactions. 
+
 Link to the main page: https://web.njit.edu/~srs23/officeVerse/mainLogin.php
 
 ![image](https://user-images.githubusercontent.com/98771010/160266840-b3c7bd20-a2b2-46fa-84f3-33c646a2d910.png)
 
+
+
 Languages Used for this Project:
+
+We used HTML, CSS, and JavaScript to build the user interface of the website. For the backend programming, PHPMyAdmin was used to build dynamic databases and PHP was used to connect the backend with the frontend. To update the databases, SQL queries were utilized.
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
