@@ -21,6 +21,9 @@ We used HTML, CSS, and JavaScript to build the user interface of the website. Fo
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+OfficeVerse can be seen as not only a website for Dunder Mifflin but also for any corporate company that needs a website that connects the clients to them. 
+
+
 
 Contact Me:
 
