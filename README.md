@@ -19,3 +19,11 @@ Languages Used for this Project:
 Contact Me:
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim)
+
+
+
+---
+<p align="center"> © 2022 Shriya Shah and Keya Dhruve, all rights reserved. </p>
+<p align="center">
+
+</p>
