@@ -12,6 +12,5 @@ Languages Used for this Project:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  ![image](https://user-images.githubusercontent.com/98771010/160266994-9005844a-ca73-4ea6-8c8b-ea23d1de7fb4.png)
-
+  <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fstock-illustration-sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-image96841969&psig=AOvVaw3wZ8-Iv88NbyJBoqIIYy6v&ust=1648442532790000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDD95m95fYCFQAAAAAdAAAAABAD" />
 </p>
